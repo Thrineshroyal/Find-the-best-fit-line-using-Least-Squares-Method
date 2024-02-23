@@ -49,12 +49,12 @@ plt.show()
 
 
 ```
-## INPUT:
-![image](https://github.com/saiganesh2006/Find-the-best-fit-line-using-Least-Squares-Method/assets/145742342/230f95dd-387c-48a2-b68b-3b6938311c54)
 
 
 ## OUTPUT:
-![image](https://github.com/saiganesh2006/Find-the-best-fit-line-using-Least-Squares-Method/assets/145742342/7244c77b-8f37-411f-9bd9-05eaeec090e2)
+
+![Screenshot 2024-02-23 162118](https://github.com/Thrineshroyal/Find-the-best-fit-line-using-Least-Squares-Method/assets/145741928/81c78a3d-365e-4c0b-94d2-c195a2811d89)
+
 
 
 ## Result:
